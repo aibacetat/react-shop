@@ -14,6 +14,12 @@ const Navbar = () => {
         <Link to={"/"}>
           <h1 className='navbar-logo'>ReacTech Shop</h1>
         </Link>
+        <Link to="/categoria/1">
+          <h1 className='navbar-logo'>Accesorios</h1>
+        </Link>
+        <Link to="/categoria/2">
+          <h1 className='navbar-logo'>Almacenamiento</h1>
+        </Link>
         <Link className='seeCarrito' to={"/cart"}>
           🛒
           {cart.length > 0 ? <TotalItems /> : null}

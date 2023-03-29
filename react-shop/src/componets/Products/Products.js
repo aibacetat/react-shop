@@ -1,7 +1,6 @@
 import { useContext, useState, useEffect } from "react";
 import { dataContext } from "../Context/DataContext";
 import axios from "axios";
-
 import "./Products.css";
 
 const Products = () => {

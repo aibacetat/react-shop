@@ -4,14 +4,16 @@
     "name": "Teclado Gamer Pro",
     "price": 30000,
     "img": "./pics/teclado.png",
-    "quanty": 1
+    "quanty": 1,
+    "category": 1
   },
   {
     "id": 2,
     "name": "Disco Duro Externo 5TB",
     "price": 150000,
     "img": "./pics/disco5tb.png",
-    "quanty": 1
+    "quanty": 1,
+    "category": 2
   },
 
   {
@@ -19,13 +21,15 @@
     "name": "Audifonos Bose",
     "price": 350000,
     "img": "./pics/bose.png",
-    "quanty": 1
+    "quanty": 1,
+    "category": 1
   },
   {
     "id": 4,
     "name": "Mouse Gamer Pro",
     "price": 36000,
     "img": "./pics/mousepro.png",
-    "quanty": 1
+    "quanty": 1,
+    "category": 1
   }
 ]
